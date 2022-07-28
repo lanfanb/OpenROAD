@@ -1,6 +1,7 @@
 set(TEST_LIBS
     dst
     ${TCL_LIBRARY}
+    z
 )
 
 set(DST_HOME ${PROJECT_SOURCE_DIR})
